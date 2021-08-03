@@ -3,3 +3,5 @@ let b = 30
 
 console.log(a+b)
 
+console.log('Hallo world!')
+
