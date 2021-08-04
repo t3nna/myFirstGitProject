@@ -5,3 +5,7 @@ console.log(a+b)
 
 console.log('Hallo world!')
 
+ a = (n)=>{
+    console.log(n)
+}
+a('beach')
